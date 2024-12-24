@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Document_Selection</Name>
+    <Assembly>"C:\Users\kentaro.yamasaki\source\repos\Document_Selection\bin\x64\Debug\net8.0\Document_Selection.dll"</Assembly>
+    <AddInId>E0B308CC-B7A9-4627-902B-99AB8FACFC5C</AddInId>
+    <FullClassName>Document_Selection.Document_Selection_button</FullClassName>
+    <VendorId>NAME</VendorId>
+    <VendorDescription>Your Company Information</VendorDescription>
+  </AddIn>
+</RevitAddIns>
+
